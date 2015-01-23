@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rejoydominic/ClassroomSocketIO/issues"
   },
-  "homepage": "https://github.com/rejoydominic/ClassroomSocketIO"
+  "homepage": "https://github.com/rejoydominic/ClassroomSocketIO",
+  "dependencies": {
+    "socket.io": "^1.3.2"
+  }
 }
