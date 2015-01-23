@@ -1,0 +1,19 @@
+{
+  "name": "ClassroomSocketIO",
+  "version": "1.0.0",
+  "description": "Socket test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://rejoydominic@github.com/rejoydominic/ClassroomSocketIO.git"
+  },
+  "author": "Rejoy Dominic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rejoydominic/ClassroomSocketIO/issues"
+  },
+  "homepage": "https://github.com/rejoydominic/ClassroomSocketIO"
+}
